@@ -32,3 +32,7 @@ N/A
 * [Architecting for High Availability on Azure [Video]](https://www.packtpub.com/virtualization-and-cloud/architecting-high-availability-azure-video)
 
 * [Hands-On Vuex for Vue.js Applications [Video]](https://www.packtpub.com/web-development/hands-vuex-vuejs-applications-video)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789536683">https://packt.link/free-ebook/9781789536683 </a> </p>
